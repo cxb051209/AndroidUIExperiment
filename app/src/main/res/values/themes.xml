@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AndroidUIExperiment" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="Theme.MenuActionBar" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#DDDDDD</item>
+        <item name="colorAccent">#3F51B5</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+    <style name="Theme.AndroidUIExperiment" parent="Base.Theme.AndroidUIExperiment" />
+</resources>
